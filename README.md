@@ -1,5 +1,4 @@
-# Solutions to Harvard's
-# [CS50 Introduction to Programming with Python](https://cs50.harvard.edu/python/) Course
+# [CS50 Introduction to Programming with Python](https://cs50.harvard.edu/python/)
 
 
 
