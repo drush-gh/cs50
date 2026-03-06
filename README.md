@@ -1,61 +1,61 @@
-Solutions to Harvard's CS50 Introduction to Programming with Python
+#Solutions to Harvard's [CS50 Introduction to Programming with Python](https://cs50.harvard.edu/python/) Course
 
-https://cs50.harvard.edu/python/
 
-Problem Set 0:
-  - https://cs50.harvard.edu/python/psets/0/indoor/
-  - https://cs50.harvard.edu/python/psets/0/playback/
-  - https://cs50.harvard.edu/python/psets/0/faces/
-  - https://cs50.harvard.edu/python/psets/0/einstein/
-  - https://cs50.harvard.edu/python/psets/0/tip/
 
-Problem Set 1:
-  - https://cs50.harvard.edu/python/psets/1/deep/
-  - https://cs50.harvard.edu/python/psets/1/bank/
-  - https://cs50.harvard.edu/python/psets/1/extensions/
-  - https://cs50.harvard.edu/python/psets/1/interpreter/
-  - https://cs50.harvard.edu/python/psets/1/meal/
+####Problem Set 0 - Functions, Variables:
+  - [Indoor](https://cs50.harvard.edu/python/psets/0/indoor/)
+  - [Playback](https://cs50.harvard.edu/python/psets/0/playback/)
+  - [Faces](https://cs50.harvard.edu/python/psets/0/faces/)
+  - [Einstein](https://cs50.harvard.edu/python/psets/0/einstein/)
+  - [Tip](https://cs50.harvard.edu/python/psets/0/tip/)
 
-Problem Set 2:
-  - https://cs50.harvard.edu/python/psets/2/camel/
-  - https://cs50.harvard.edu/python/psets/2/coke/
-  - https://cs50.harvard.edu/python/psets/2/twttr/
-  - https://cs50.harvard.edu/python/psets/2/plates/
-  - https://cs50.harvard.edu/python/psets/2/nutrition/
+####Problem Set 1 - Conditionals:
+  - [Deep](https://cs50.harvard.edu/python/psets/1/deep/)
+  - [Bank](https://cs50.harvard.edu/python/psets/1/bank/)
+  - [Extensions](https://cs50.harvard.edu/python/psets/1/extensions/)
+  - [Interpreter](https://cs50.harvard.edu/python/psets/1/interpreter/)
+  - [Meal](https://cs50.harvard.edu/python/psets/1/meal/)
 
-Problem Set 3:
-  - https://cs50.harvard.edu/python/psets/3/fuel/
-  - https://cs50.harvard.edu/python/psets/3/taqueria/
-  - https://cs50.harvard.edu/python/psets/3/grocery/
-  - https://cs50.harvard.edu/python/psets/3/outdated/
+####Problem Set 2 - Loops:
+  - [Camel](https://cs50.harvard.edu/python/psets/2/camel/)
+  - [Coke](https://cs50.harvard.edu/python/psets/2/coke/)
+  - [Twttr](https://cs50.harvard.edu/python/psets/2/twttr/)
+  - [Plates](https://cs50.harvard.edu/python/psets/2/plates/)
+  - [Nutrition](https://cs50.harvard.edu/python/psets/2/nutrition/)
 
-Problem Set 4:
-  - https://cs50.harvard.edu/python/psets/4/emojize/
-  - https://cs50.harvard.edu/python/psets/4/figlet/
-  - https://cs50.harvard.edu/python/psets/4/adieu/
-  - https://cs50.harvard.edu/python/psets/4/game/
-  - https://cs50.harvard.edu/python/psets/4/professor/
-  - https://cs50.harvard.edu/python/psets/4/bitcoin/
+####Problem Set 3 - Exceptions:
+  - [Fuel](https://cs50.harvard.edu/python/psets/3/fuel/)
+  - [Taqueria](https://cs50.harvard.edu/python/psets/3/taqueria/)
+  - [Grocery](https://cs50.harvard.edu/python/psets/3/grocery/)
+  - [Outdated](https://cs50.harvard.edu/python/psets/3/outdated/)
 
-Problem Set 5:
-  - https://cs50.harvard.edu/python/psets/5/test_twttr/
-  - https://cs50.harvard.edu/python/psets/5/test_bank/
-  - https://cs50.harvard.edu/python/psets/5/test_plates/
-  - https://cs50.harvard.edu/python/psets/5/test_fuel/
+####Problem Set 4 - Libraries:
+  - [Emojize](https://cs50.harvard.edu/python/psets/4/emojize/)
+  - [Figlet](https://cs50.harvard.edu/python/psets/4/figlet/)
+  - [Adieu](https://cs50.harvard.edu/python/psets/4/adieu/)
+  - [Game](https://cs50.harvard.edu/python/psets/4/game/)
+  - [Professor](https://cs50.harvard.edu/python/psets/4/professor/)
+  - [Bitcoin](https://cs50.harvard.edu/python/psets/4/bitcoin/)
 
-Problem Set 6:
-  - https://cs50.harvard.edu/python/psets/6/lines/
-  - https://cs50.harvard.edu/python/psets/6/pizza/
-  - https://cs50.harvard.edu/python/psets/6/scourgify/
-  - https://cs50.harvard.edu/python/psets/6/shirt/
+####Problem Set 5 - Unit Tests:
+  - [Test_twttr](https://cs50.harvard.edu/python/psets/5/test_twttr/)
+  - [Test_bank](https://cs50.harvard.edu/python/psets/5/test_bank/)
+  - [Test_plates](https://cs50.harvard.edu/python/psets/5/test_plates/)
+  - [Test_fuel](https://cs50.harvard.edu/python/psets/5/test_fuel/)
 
-Problem Set 7:
-  - https://cs50.harvard.edu/python/psets/7/numb3rs/
-  - https://cs50.harvard.edu/python/psets/7/watch/
-  - https://cs50.harvard.edu/python/psets/7/um/
-  - https://cs50.harvard.edu/python/psets/7/response/
+####Problem Set 6 - File I/O:
+  - [Lines](https://cs50.harvard.edu/python/psets/6/lines/)
+  - [Pizza](https://cs50.harvard.edu/python/psets/6/pizza/)
+  - [Scourgify](https://cs50.harvard.edu/python/psets/6/scourgify/)
+  - [Shirt](https://cs50.harvard.edu/python/psets/6/shirt/)
 
-Problem Set 8:
-  - https://cs50.harvard.edu/python/psets/8/seasons/
-  - https://cs50.harvard.edu/python/psets/8/jar/
-  - https://cs50.harvard.edu/python/psets/8/shirtificate/
+####Problem Set 7 - Regular Expressions:
+  - [Numb3rs](https://cs50.harvard.edu/python/psets/7/numb3rs/)
+  - [Watch](https://cs50.harvard.edu/python/psets/7/watch/)
+  - [Um](https://cs50.harvard.edu/python/psets/7/um/)
+  - [Response](https://cs50.harvard.edu/python/psets/7/response/)
+
+####Problem Set 8 - Object-Oriented Programming:
+  - [Seasons](https://cs50.harvard.edu/python/psets/8/seasons/)
+  - [Jar](https://cs50.harvard.edu/python/psets/8/jar/)
+  - [Shirtificate](https://cs50.harvard.edu/python/psets/8/shirtificate/)
